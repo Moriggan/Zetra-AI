@@ -26,7 +26,7 @@ Our Triggerbot feature ensures that you never miss a shot. It automatically fire
 ## Installation and SETUP
 
 Steps:
-   ```bash
+
    1) Download Latest Release
    2) Install Python 3.10.5 Exactly This Version !!!
    3) Download and Install Cuda 12.6 Exactly !!!!
@@ -34,5 +34,5 @@ Steps:
    5) Enter in HID SETUP folder and Run ClickMe.bat and Click Same Time Reset Button as You Run that Batch File! (You need To Be very Fast,If It Does not Works,Run Manually via cmd with admin rights,py fz.py)
    6) After It Ends,Run START.Bat in main Folder,Tune and Play 💚
 
-   💡 Trained Model is Required for Play. 💡
+   ###💡 Trained Model is Required for Play. 💡
    
