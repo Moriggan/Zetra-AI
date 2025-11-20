@@ -19,15 +19,13 @@ Quick and accurate flicks are essential in many competitive games. With our Flic
 ### 🔫 Triggerbot
 Our Triggerbot feature ensures that you never miss a shot. It automatically fires your weapon when a target is acquired, maximizing your damage output and minimizing wasted ammunition.
 
-###❗️Arduino and USB HOST SHIELD 3.0 IS REQUIRED FOR WORKING AND UNDETECTEBILITY!❗️
+❗️Arduino and USB HOST SHIELD 3.0 IS REQUIRED FOR WORKING AND UNDETECTEBILITY!❗️
 
 
 
-## Installation
+## Installation and SETUP
 
-To get started with Zetra AI Aimbot, follow these simple steps:
-
-1. Clone the repository:
+Steps:
    ```bash
    1) Download Latest Release
    2) Install Python 3.10.5 Exactly This Version !!!
