@@ -21,6 +21,7 @@ Our Triggerbot feature ensures that you never miss a shot. It automatically fire
 
 ❗️Arduino and USB HOST SHIELD 3.0 IS REQUIRED FOR WORKING AND UNDETECTEBILITY!❗️
 
+❗️RAZER OR LOGITECH MOUSE REQUIRED❗️
 
 
 ## Installation and SETUP
