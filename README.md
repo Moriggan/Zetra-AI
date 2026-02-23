@@ -38,7 +38,7 @@ Steps:
 
    1) Download Latest Release
    2) Install Python 3.10.5 Exactly This Version !!!
-   3) Download and Install Cuda 12.6 Exactly !!!!
+   3) Download and Install Cuda 12.6 Exactly !!!! [CHECK YOUR CUDA SECTION GPU BASED]
    4) pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
    5) Install Requirements: ->  pip install -r requirements.txt
    6) Enter in HID SETUP folder and Run ClickMe.bat and Click Same Time Reset Button as You Run that Batch File! (You need To Be very Fast,If It Does not Works,Run Manually via cmd with admin rights,py fz.py)
