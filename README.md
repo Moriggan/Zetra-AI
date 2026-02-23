@@ -24,8 +24,12 @@ Our Triggerbot feature ensures that you never miss a shot. It automatically fire
 ❗️RAZER OR LOGITECH MOUSE REQUIRED❗️
 
 ###   ❗️ WORKS ON GTX-RTX GPU's BUT YOU NEED DIFFERENT CUDA ❗️
+
+
 cuda 11.8 - GTX Cards
+
 cuda 12.6 - 20 series to 40 series cards
+
 cuda 12.8 - 50 series cards
 
 ## Installation and SETUP
