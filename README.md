@@ -17,7 +17,7 @@ Zetra AI Aimbot is compatible with a wide range of controllers, allowing you to 
 
 ❗️RAZER OR LOGITECH MOUSE REQUIRED❗️
 
-###❗️ WORKS ON GTX-RTX GPU's BUT YOU NEED DIFFERENT CUDA ❗️
+❗️ WORKS ON GTX-RTX GPU's BUT YOU NEED DIFFERENT CUDA ❗️
 cuda 11.8 - GTX Cards
 cuda 12.6 - 20 series to 40 series cards
 cuda 12.8 - 50 series cards
