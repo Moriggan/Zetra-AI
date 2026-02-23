@@ -13,23 +13,13 @@ Our aimbot incorporates state-of-the-art filtering techniques to provide you wit
 ### 🕹️ Controller Support
 Zetra AI Aimbot is compatible with a wide range of controllers, allowing you to enjoy the benefits of our technology regardless of your preferred input method. Whether you're using a keyboard, mouse, or controller, we've got you covered.
 
-### 🎯 Flickbot
-Quick and accurate flicks are essential in many competitive games. With our Flickbot feature, you can execute perfect flicks with ease, giving you a significant advantage in fast-paced situations.
-
-### 🔫 Triggerbot
-Our Triggerbot feature ensures that you never miss a shot. It automatically fires your weapon when a target is acquired, maximizing your damage output and minimizing wasted ammunition.
-
 ❗️Arduino and USB HOST SHIELD 3.0 IS REQUIRED FOR WORKING AND UNDETECTEBILITY!❗️
 
 ❗️RAZER OR LOGITECH MOUSE REQUIRED❗️
 
-###   ❗️ WORKS ON GTX-RTX GPU's BUT YOU NEED DIFFERENT CUDA ❗️
-
-
+###❗️ WORKS ON GTX-RTX GPU's BUT YOU NEED DIFFERENT CUDA ❗️
 cuda 11.8 - GTX Cards
-
 cuda 12.6 - 20 series to 40 series cards
-
 cuda 12.8 - 50 series cards
 
 ## Installation and SETUP
